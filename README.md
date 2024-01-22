@@ -36,7 +36,7 @@
   </a>
 </div>
 
-<hr>
+<center>
 
 ![IsntProphet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsntProphet&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 <hr>
@@ -45,7 +45,7 @@
 
 <hr>
 ###
-
+</center>
 <div align="center">
   <a href="https://open.spotify.com/user/prophetfaithless">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=prophetfaithless&count=3&unique=true" alt="Spotify recently played"  />
