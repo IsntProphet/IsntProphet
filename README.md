@@ -24,7 +24,6 @@
 </div>
 
 ###
-  <div align="center">📱 My socials</div>
   
 <div align="center">
   <a href="https://www.instagram.com/isntprophet/" target="_blank">
