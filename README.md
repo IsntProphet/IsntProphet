@@ -36,8 +36,11 @@
   </a>
 </div>
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?IsntProphet=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
+<hr>
 ###
 
 <div align="center">
