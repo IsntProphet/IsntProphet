@@ -2,6 +2,14 @@
 
 ###
 
+👩‍💻  About Me 
+
+- 📚 I'm currently learning Bootstrap and acquiring experience with Python and Front-end languages
+
+<hr>
+
+<h3> 🛠 Language and tools </h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
