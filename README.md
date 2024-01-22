@@ -6,6 +6,7 @@
 
 - 📚 I'm pursuing a degree in Computer Engineering
 - 📚 I'm currently learning Bootstrap and acquiring experience with Python and Front-end languages
+- 📢 I speak English and Brazilian Portuguese
 
 <hr>
 <div align="center">
