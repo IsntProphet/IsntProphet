@@ -44,9 +44,9 @@
 
 <div align="center">
 
-![IsntProphet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsntProphet&theme=gotham&hide_border=true)
+![IsntProphet's Streak](https://github-readme-streak-stats.herokuapp.com/?user=IsntProphet&theme=great-gatsby&hide_border=true)
 
-![IsntProphet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsntProphet&theme=gotham&show_icons=true&hide_border=true&layout=compact)
+![IsntProphet's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsntProphet&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
 
 <hr>
 </div>
